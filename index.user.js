@@ -5,7 +5,7 @@
 // @description This is a userscript.
 // @match       *://*oscar*/*/provider/*
 // @include     *://*oscar*/*appointmentcontrol.jsp*
-// @version     0.0.1
+// @version     1.0.1
 // @author      Porton Health Corp
 // @require     https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom@2,npm/@violentmonkey/ui@0.7
 // @require     https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js
