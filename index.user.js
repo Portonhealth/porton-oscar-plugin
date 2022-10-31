@@ -33,7 +33,9 @@ function Main() {
     className: "col"
   }, "One of three columns"), VM.h("div", {
     className: "col"
-  }, "Third Column")));
+  }, "Third Column"), VM.h("div", {
+    className: "col"
+  }, "Fourth Column")));
 }
 
 // global CSS
