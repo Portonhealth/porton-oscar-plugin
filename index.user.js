@@ -35,7 +35,7 @@ function App() {
 
   // import react script
   const scriptEl = document.createElement('script');
-  scriptEl.src = 'https://localhost:9000/PortonOscar.js';
+  scriptEl.src = 'https://github.com/Portonhealth/porton-oscar-plugin/raw/master/PortonOscar.js';
   scriptEl.onload = () => {
     const loadedScript = document.defaultView['PortonOscar'];
     if (loadedScript) {
