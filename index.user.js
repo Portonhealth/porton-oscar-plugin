@@ -7,11 +7,6 @@
 // @version     1.0.1
 // @author      Porton Health Corp
 // @require     https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom@2,npm/@violentmonkey/ui@0.7
-// @require     https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js
-// @require     https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js
-// @require     https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js
-// @require     https://unpkg.com/react@18/umd/react.production.min.js
-// @require     https://unpkg.com/react-dom@18/umd/react-dom.production.min.js
 // @downloadURL https://github.com/Portonhealth/porton-oscar-plugin/raw/master/index.user.js
 // @grant       GM_addElement
 // @grant       GM_addStyle
