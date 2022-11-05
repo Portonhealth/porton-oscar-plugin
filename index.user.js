@@ -3,8 +3,7 @@
 // @name        Porton Health Corp Oscar Plugin
 // @namespace   Violentmonkey Scripts
 // @description This is a userscript.
-// @match       *://*oscar*/*/provider/*
-// @include     *://*oscar*/*appointmentcontrol.jsp*
+// @match       *://*oscar*/*
 // @version     1.0.1
 // @author      Porton Health Corp
 // @require     https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom@2,npm/@violentmonkey/ui@0.7
@@ -25,7 +24,7 @@ function App() {
   // create div with 'root' as id
   const reactNode = document.createElement('div');
   reactNode.id = 'root';
-  reactNode.setAttribute('style', 'position: fixed; right: 50; bottom: 20');
+  reactNode.setAttribute('style', 'position: fixed; right: 20px; bottom: 20px');
   document.body.append(reactNode);
 
   // import react script
