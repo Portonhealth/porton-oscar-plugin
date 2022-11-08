@@ -7,7 +7,7 @@
 // @version     1.0.1
 // @author      Porton Health Corp
 // @require     https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom@2,npm/@violentmonkey/ui@0.7
-// @downloadURL https://github.com/Portonhealth/porton-oscar-plugin/raw/master/index.user.js
+// @downloadURL https://porton-shared.s3.ca-central-1.amazonaws.com/index.user.js
 // @grant       GM_addElement
 // @grant       GM_addStyle
 // ==/UserScript==
